@@ -5,3 +5,5 @@
 <p>Should we commit this change to GIT?</p>
 
 <p>Making another change.</p>
+
+<p><?php echo "Making yet another change" ?></p>
