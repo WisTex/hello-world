@@ -7,3 +7,5 @@
 <p>Making another change.</p>
 
 <p><?php echo "Making yet another change" ?></p>
+
+<P><?php echo $_SERVER['SERVER_NAME']; ?></P>
