@@ -20,6 +20,7 @@
 
 <p>Making another change.</p>
 
+
 <?php
 
     $test = "test";
@@ -34,7 +35,14 @@
 
 <input type="button" value="something" name="somthing_name" />
 
+
+<p><?php echo "Making yet another change" ?></p>
+
+<P><?php echo $_SERVER['SERVER_NAME']; ?></P>  
+  
 </body>
 
 </html>
+
+
 
